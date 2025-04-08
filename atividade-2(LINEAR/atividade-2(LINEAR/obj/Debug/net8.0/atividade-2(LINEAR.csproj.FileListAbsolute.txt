@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\bin\Debug\net8.0\atividade-2(LINEAR.exe
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\bin\Debug\net8.0\atividade-2(LINEAR.deps.json
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\bin\Debug\net8.0\atividade-2(LINEAR.runtimeconfig.json
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\bin\Debug\net8.0\atividade-2(LINEAR.dll
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\bin\Debug\net8.0\atividade-2(LINEAR.pdb
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.AssemblyInfo.cs
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.dll
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\refint\atividade-2(LINEAR.dll
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.pdb
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\atividade-2(LINEAR.genruntimeconfig.cache
+C:\Users\andre\source\repos\atividade-2(LINEAR\atividade-2(LINEAR\obj\Debug\net8.0\ref\atividade-2(LINEAR.dll
